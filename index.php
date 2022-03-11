@@ -18,29 +18,6 @@
             <h1>Worlds <br>most loved store</h1>
             <button type="button">Get Started</button>
         </div>
-        <div class="sidebar">
-            <img src="images/menu.png" class="menu">
-
-            <div class="social-link">
-                <img src="images/fb.png">
-                <img src="images/ig.png">
-                <img src="images/tw.png">
-            </div>
-
-            <div class="useful-link">
-                <img src="images/share.png">
-                <img src="images/info.png">
-            </div>
-        </div>
-        <div class="bubbles">
-            <img src="images/bubble.png">
-            <img src="images/bubble.png">
-            <img src="images/bubble.png">
-            <img src="images/bubble.png">
-            <img src="images/bubble.png">
-            <img src="images/bubble.png">
-            <img src="images/bubble.png">
-            <img src="images/bubble.png">
         </div>
     </div>
 </body>
